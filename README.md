@@ -11,6 +11,7 @@
 - ⚡ Fun fact **I like to play Games and Coding while drinking coffee.**
 
 ### Connect with me:
-
-<a href="https://web.facebook.com/profile.php?id=100011332078662"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/facebook/facebook-icon.svg" alt="akbarsr" height="22" width="22"/></a>
+<p>
+<a href="https://web.facebook.com/profile.php?id=100011332078662"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/facebook/facebook-icon.svg" alt="" height="22" width="22"/></a>
 <a href="https://www.linkedin.com/in/akbarsuryaraza/" target="blank"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg" alt="akbarsr" height="22" width="22" /></a>
+</p>
