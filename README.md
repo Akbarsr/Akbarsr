@@ -18,4 +18,4 @@
 <br></br>
 <a href="https://www.instagram.com/akbar_vinsmoke/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="akbarsr" height="22" width="22" /></a> **akbar_vinsmoke**
 <br></br>
-<a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCKHRMPDmdhFfCGbRMCLXVpqsRgGbxCDzJZFTtfrrpGDfzpfBPpGzWtglLGGcxlnScvhGwgV" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="akbarsr" height="22" width="22" /></a> **akbarsuryaraza1@gmail.com**
+<a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCKHRMPDmdhFfCGbRMCLXVpqsRgGbxCDzJZFTtfrrpGDfzpfBPpGzWtglLGGcxlnScvhGwgV" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="akbarsr" height="22" width="22" /></a> <strong>akbarsuryaraza1@gmail.com</strong>
